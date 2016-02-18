@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 1af07fdce7a1143cab56126d30f928a7
+timeCreated: 1455569630
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: New Piskel (3)_0
+    21300002: New Piskel (3)_1
+    21300004: New Piskel (3)_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: New Piskel (3)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 310
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -66}
+        - {x: 126, y: -57}
+        - {x: 129, y: -9}
+        - {x: 106, y: 4}
+        - {x: 64, y: 4}
+        - {x: 86, y: 6}
+        - {x: 143, y: 20}
+        - {x: 155, y: 66}
+        - {x: 128, y: 92}
+        - {x: 60, y: 95}
+        - {x: 57, y: 160}
+        - {x: -58, y: 160}
+        - {x: -144, y: 89}
+        - {x: -155, y: 36}
+        - {x: -128, y: 18}
+        - {x: -85, y: 8}
+        - {x: -47, y: 8}
+        - {x: -106, y: 4}
+        - {x: -127, y: -9}
+        - {x: -129, y: -41}
+        - {x: -155, y: -87}
+        - {x: -155, y: -123}
+        - {x: -137, y: -145}
+        - {x: -122, y: -160}
+        - {x: 118, y: -160}
+        - {x: 136, y: -144}
+        - {x: 155, y: -123}
+        - {x: 155, y: -82}
+    - name: New Piskel (3)_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 40
+        width: 310
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: -35}
+        - {x: 129, y: 11}
+        - {x: 106, y: 24}
+        - {x: 64, y: 24}
+        - {x: 86, y: 26}
+        - {x: 143, y: 40}
+        - {x: 155, y: 86}
+        - {x: 128, y: 112}
+        - {x: 60, y: 115}
+        - {x: 57, y: 140}
+        - {x: -66, y: 140}
+        - {x: -144, y: 111}
+        - {x: -154, y: 57}
+        - {x: -128, y: 38}
+        - {x: -85, y: 28}
+        - {x: -47, y: 28}
+        - {x: -106, y: 24}
+        - {x: -136, y: 15}
+        - {x: -155, y: -37}
+        - {x: -155, y: -103}
+        - {x: -137, y: -125}
+        - {x: -122, y: -140}
+        - {x: 118, y: -140}
+        - {x: 136, y: -124}
+        - {x: 155, y: -103}
+        - {x: 155, y: -58}
+    - name: New Piskel (3)_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 90
+        width: 310
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 36}
+        - {x: 106, y: 49}
+        - {x: 64, y: 49}
+        - {x: 86, y: 51}
+        - {x: 143, y: 65}
+        - {x: 155, y: 111}
+        - {x: 139, y: 115}
+        - {x: -137, y: 115}
+        - {x: -147, y: 105}
+        - {x: -148, y: 84}
+        - {x: -129, y: 62}
+        - {x: -85, y: 53}
+        - {x: -47, y: 53}
+        - {x: -106, y: 49}
+        - {x: -136, y: 40}
+        - {x: -155, y: -12}
+        - {x: -155, y: -78}
+        - {x: -137, y: -100}
+        - {x: -122, y: -115}
+        - {x: 118, y: -115}
+        - {x: 136, y: -99}
+        - {x: 155, y: -78}
+        - {x: 155, y: -22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
